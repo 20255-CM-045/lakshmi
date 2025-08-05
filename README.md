@@ -1,5 +1,5 @@
-# lakshmi
-Hi there, I'm Penta Subba Lakshmi! 👋
+ 
+# Hi there, I'm Penta Subba Lakshmi! 👋
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subbalakshmi-penta-37a949256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohinisubbalakshmi@gmail.com) 
