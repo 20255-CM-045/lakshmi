@@ -1,22 +1,69 @@
- 
-# Hi there, I'm Penta Subba Lakshmi! 👋
-<h3 align="left">👩‍💻  About Me</h3>
+### Hi there, I'm Penta Subba Lakshmi! 👋
 
-###
+![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subbalakshmi-penta-37a949256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohinisubbalakshmi@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=20255-CM-045&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=20255-CM-045&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=20255-CM-045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a **Passionate Coder & Full Stack Developer** passionate about building web and mobile applications. I love to code and explore new technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=20255-CM-045&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+- 💻 I work with **C++, Java, HTML, CSS, JavaScript, Bootstrap, React, React Native, MongoDB, Node.js, SQL**
+- 🎯 Passionate about **Frontend & Backend Development**
+- 📌 Currently working on **real-world projects to sharpen my skills**
+- 📚 Always learning new technologies and frameworks
+
+---
+
+### 🔥 Tech Stack
+
+#### 🖥 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+#### 🖥 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🌟 Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### 🛠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌍 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nandini_Tallapudi/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nandini_2065)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nandinita0eb4/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nandini_satyaa)
+
+---
+
+### 👯 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subbalakshmi-penta-37a949256/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nandu_Tallapudi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+---
+
+### 📌 Latest Projects
+🚀 **Travel Tale Project** - [Live Demo](https://the-travel-tale.vercel.app/) | [GitHub](https://github.com/20255-CM-055/Travel_Tale_Project)
+
+🚀 **Recipe App Project** - [Live Demo](https://drive.google.com/file/d/1GYe6EsobwfiM2-1a9drutBFFpSp01Pck/view?usp=sharing) | [GitHub](https://github.com/20255-CM-055/Recipe_App_Project)
+
+🚀 **Netflix Clone Project** - [Live Demo](https://netflix-clone-cyan-mu.vercel.app/) | [GitHub](https://github.com/20255-CM-055/Netflix_Clone_Project)
+
+🚀 **Shop Ease Project** - [Live Demo](https://shop-ease-weld-eight.vercel.app/) | [GitHub](https://github.com/20255-CM-055/shop_ease_project/tree/main)
+
+---
+
+### 🎉 Fun Fact
+💡 I love building **cool UI/UX designs** and experimenting with **animations & effects**!
+
+![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
