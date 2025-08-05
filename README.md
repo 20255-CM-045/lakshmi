@@ -38,28 +38,27 @@ I am a **Passionate Coder & Full Stack Developer** passionate about building web
 ---
 
 ### 🌍 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nandini_Tallapudi/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nandini_2065)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nandinita0eb4/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nandini_satyaa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lakshmi45/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/subblakshmi_p)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mohinisubbcvtc/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/subbalakshmi3331)
 
 ---
 
 ### 👯 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subbalakshmi-penta-37a949256/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nandu_Tallapudi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
 
 ---
 
 ### 📌 Latest Projects
-🚀 **Travel Tale Project** - [Live Demo](https://the-travel-tale.vercel.app/) | [GitHub](https://github.com/20255-CM-055/Travel_Tale_Project)
+🚀 **Travel Tale Project** - [Live Demo](https://the-travel-tale.vercel.app/) | [GitHub](https://github.com/20255-CM-045/Travel_Tale_Project)
 
-🚀 **Recipe App Project** - [Live Demo](https://drive.google.com/file/d/1GYe6EsobwfiM2-1a9drutBFFpSp01Pck/view?usp=sharing) | [GitHub](https://github.com/20255-CM-055/Recipe_App_Project)
+🚀 **Recipe App Project** - [Live Demo](https://drive.google.com/file/d/1GYe6EsobwfiM2-1a9drutBFFpSp01Pck/view?usp=sharing) | [GitHub](https://github.com/20255-CM-045/Recipe_App_Project)
 
-🚀 **Netflix Clone Project** - [Live Demo](https://netflix-clone-cyan-mu.vercel.app/) | [GitHub](https://github.com/20255-CM-055/Netflix_Clone_Project)
+🚀 **Netflix Clone Project** - [Live Demo](https://netflix-clone-cyan-mu.vercel.app/) | [GitHub](https://github.com/20255-CM-045/Netflix_Clone_Project)
 
-🚀 **Shop Ease Project** - [Live Demo](https://shop-ease-weld-eight.vercel.app/) | [GitHub](https://github.com/20255-CM-055/shop_ease_project/tree/main)
+🚀 **Shop Ease Project** - [Live Demo](https://shop-ease-weld-eight.vercel.app/) | [GitHub](https://github.com/20255-CM-045/shop_ease_project/tree/main)
 
 ---
 
