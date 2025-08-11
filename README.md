@@ -60,7 +60,7 @@ I am a **Passionate Coder & Full Stack Developer** passionate about building web
 
 🚀 **Shop Ease Project** - [Live Demo](https://shop-ease-weld-eight.vercel.app/) | [GitHub](https://github.com/20255-CM-045/shop_ease_project/tree/main)
 
-🚀 **Tour India Project** - [Live Demo]() | [GitHub](https://github.com/20255-CM-045/)
+🚀 **Tour India Project** - [Live Demo]() | [GitHub](https://github.com/20255-CM-045/tourindia)
 
 ---
 
