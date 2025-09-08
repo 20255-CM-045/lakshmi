@@ -54,15 +54,11 @@ I am a **Passionate Coder & Full Stack Developer** passionate about building web
 ### 📌 Latest Projects
 🚀 **Travel Tale Project** - [Live Demo](https://the-travel-tale.vercel.app/) | [GitHub](https://github.com/20255-CM-045/Travel_Tale_Project)
 
-🚀 **Recipe App Project** - [Live Demo](https://drive.google.com/file/d/1GYe6EsobwfiM2-1a9drutBFFpSp01Pck/view?usp=sharing) | [GitHub](https://github.com/20255-CM-045/Recipe_App_Project)
-
 🚀 **Netflix Clone Project** - [Live Demo](https://netflix-clone-cyan-mu.vercel.app/) | [GitHub](https://github.com/20255-CM-045/Netflix_Clone_Project)
-
-🚀 **Shop Ease Project** - [Live Demo](https://shop-ease-weld-eight.vercel.app/) | [GitHub](https://github.com/20255-CM-045/shop_ease_project/tree/main)
 
 🚀 **Tour India Project** - [Live Demo]() | [GitHub](https://github.com/20255-CM-045/tourindia)
 
-🚀 **Grabber Grocery– UI** - [Live Demo]() | [GitHub](https://github.com/20255-CM-045/-Grabber-Grocery.git)
+🚀 **Grabber Grocery– UI** - [Live Demo](https://www.figma.com/proto/6dyvskvaz5jH6cLMifg6VJ/Untitled?node-id=104-2007&p=f&t=flSBFcadUsZpGyEJ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1) | [GitHub](https://github.com/20255-CM-045/-Grabber-Grocery.git)
 
 🚀 **Celestial Navigator UI** - [Live Demo]() | [GitHub]()
 
