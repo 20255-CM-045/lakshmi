@@ -60,8 +60,7 @@ I am a **Passionate Coder & Full Stack Developer** passionate about building web
 
 🚀 **Grabber Grocery– UI** - [Live Demo](https://www.figma.com/proto/6dyvskvaz5jH6cLMifg6VJ/Untitled?node-id=104-2007&p=f&t=flSBFcadUsZpGyEJ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1) | [GitHub](https://github.com/20255-CM-045/-Grabber-Grocery.git)
 
-🚀 **Celestial Navigator UI** - [Live Demo]() | [GitHub]()
-
+🚀 **Celestial Navigator UI** - [Live Demo](https://www.figma.com/proto/a7mhJK9BiSInPrHvkq72ti/Untitled?node-id=1-21&starting-point-node-id=1%3A2) 
 
 ---
 
